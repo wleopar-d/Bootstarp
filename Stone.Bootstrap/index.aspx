@@ -13,7 +13,7 @@
     <!-- Bootstrap -->
     <link href="Content/bootstrap.min.css" rel="stylesheet">
     <style>
-        body { 
+        body {
             padding-top: 70px;
             padding-bottom: 30px;
         }
@@ -359,14 +359,14 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img src="http://dummyimage.com/1140x500/000/fff&text=1" data-src="" alt="First slide">
+                    <img src="http://getdummyimage.com/image?width=1400&height=500&bgcolor=%23000000&color=%23ff0000&text=&bordercolor=%230f521a" data-src="" alt="First slide">
                 </div>
                 <div class="item">
-                    <img src="http://dummyimage.com/1140x500/000/fff&text=2" data-src="" alt="Second slide">
+                    <img src="http://getdummyimage.com/image?width=1400&height=500&bgcolor=%23000000&color=%23ff0000&text=&bordercolor=%230f521a" data-src="" alt="Second slide">
                 </div>
                 <div class="item">
                     <a href="javascript:void(0);">
-                        <img src="http://dummyimage.com/1140x500/000/fff&text=3" data-src="" alt="Third slide"></a>
+                        <img src="http://getdummyimage.com/image?width=1400&height=500&bgcolor=%23000000&color=%23ff0000&text=&bordercolor=%230f521a" data-src="" alt="Third slide"></a>
                 </div>
             </div>
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
