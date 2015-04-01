@@ -13,7 +13,7 @@
     <!-- Bootstrap -->
     <link href="Content/bootstrap.min.css" rel="stylesheet">
     <style>
-        body {
+        body { 
             padding-top: 70px;
             padding-bottom: 30px;
         }
