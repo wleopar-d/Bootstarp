@@ -17,7 +17,7 @@
             padding-top: 70px;
             padding-bottom: 30px;
         }
-
+          
         .theme-dropdown .dropdown-menu {
             position: static;
             display: block;
